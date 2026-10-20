@@ -1,0 +1,1 @@
+# Studi-Kasus-6-Klasifikasi-Pemicu-Deforestasi-Hutan-Tropis-Secara-Near-Real-Time
