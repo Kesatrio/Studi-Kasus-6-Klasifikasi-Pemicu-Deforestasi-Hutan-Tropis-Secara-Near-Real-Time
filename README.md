@@ -1,1 +1,2 @@
-# Studi-Kasus-6-Klasifikasi-Pemicu-Deforestasi-Hutan-Tropis-Secara-Near-Real-Time
+# Deskripsi Singkat Studi Kasus
+Studi kasus ini mengembangkan sistem klasifikasi otomatis untuk mengidentifikasi pemicu langsung (direct drivers) di balik peringatan deforestasi di wilayah tropis. Kendala utama seperti seringnya tutupan awan pada citra optik (Sentinel-2) diatasi dengan menggabungkan data radar (Sentinel-1) menjadi satu input stack multiband. Menggunakan model Convolutional Neural Network (CNN) berbasis TensorFlow/Keras, sistem dipelajari untuk menganalisis tekstur dan konteks lingkungan sekitar agar mampu membedakan kategori pemicu seperti pertanian, penebangan kayu selektif, penambangan, serta kebakaran hutan/bencana alam secara otomatis
